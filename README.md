@@ -86,3 +86,7 @@ Get-FileHash .\SoloBreach-v0.3-Windows-x64.zip -Algorithm SHA256
 
 GitHub 在每个 Release 中自动显示的 **“Source code (zip)”** 与 **“Source code (tar.gz)”** 只包含本下载页的 README、三张截图和第三方许可声明，**不是游戏源码，也不能直接运行**。
 
+
+## 其他项目
+
+AI 助手 Skill 已移至独立的 [Agent Skills 分类仓库](https://github.com/1948666760dty-sys/agent-skills)，包括复杂酒馆、不着急和减脂教练。本仓库继续用于孤锋演训游戏发布。
